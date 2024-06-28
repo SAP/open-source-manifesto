@@ -4,7 +4,7 @@
 
 ## About this project
 
-This Manifesto states SAP's open source principles about how we engage with open source. The manifesto aligns with SAP's established presence as a key contributor to open source, highlighting its top 10 ranking in the Open-Source-Contributor-Index active role in pivotal projects that influence digital innovation, like OpenUI5, and OpenJDK. The Manifesto talks about SAP's commitments to open source, about our vision, about our external engagement with open source, and how we empower our employees to collaborate with open source. It is a clear statement providing guidance to our internal developers, but also customers, partners, and developer ecosystem.
+This Manifesto states SAP's principles on how we engage with open source. It aligns with SAP's established presence as a key contributor to open source, highlighting its top 10 ranking in the [Open Source Contributor Index](https://opensourceindex.io/) (OSCI) and its active role in pivotal projects that influence digital innovation, like OpenUI5, and OpenJDK. The Manifesto talks about SAP's commitments to open source, about our vision, about our external engagement with open source, and how we empower our employees to collaborate with open source. It is a clear statement to customers, partners, and developer ecosystem, at the same time it is providing guidance to our internal developers.
 
 ## Introduction
 
