@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "open-source-manifesto"
+SPDX-PackageSupplier = "ospo@sap.com"
+SPDX-PackageDownloadLocation = "https://github.com/SAP/open-source-manifesto"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2025 SAP SE or an SAP affiliate company and open-source-manifesto contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
